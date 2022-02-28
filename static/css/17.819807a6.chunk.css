@@ -1,0 +1,1 @@
+.blinking{-webkit-animation:blinker 1s linear infinite;animation:blinker 1s linear infinite}@-webkit-keyframes blinker{50%{background-color:#222a45}}@keyframes blinker{50%{background-color:#222a45}}
